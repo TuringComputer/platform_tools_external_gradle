@@ -1,1 +1,0 @@
-# platform_tools_external_gradle
